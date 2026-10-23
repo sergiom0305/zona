@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react';
 import './App.css';
 
 const MAX_COP = 2000000;
-const API_URL = 'http://localhost:3001';
+const API_URL = "https://zonacash.onrender.com";
 
 function App() {
   const [showFormPage, setShowFormPage] = useState(false);
