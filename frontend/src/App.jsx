@@ -4,7 +4,7 @@ import './App.css';
 const MAX_COP = 2000000;
 const MONTHLY_INTEREST_RATE = 0.02;
 const MAX_INSTALLMENTS = 6;
-const API_URL = 'http://localhost:3001';
+const API_URL = "https://zonacash.onrender.com";
 const menuPages = [
   { id: 'inicio', label: 'Inicio' },
   { id: 'conocenos', label: 'Conócenos' },
